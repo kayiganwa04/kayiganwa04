@@ -6,14 +6,10 @@ Fullstack web developer
 
 I’m a responsible full-stack web Developer with a track record of success in the web application development industry ready to take on varied and diverse projects. Equally skilled at delivering technical reports and comprehensive, visceral, and substantial final projects. Known for fulfilling duties typically assigned to several developers. Keen to take ownership of client’s creative identity and user outreach efforts, and broadening client’s bases by enhancing public appeal through visually-stimulating and interactive environments.
 
-* 🌍  I'm based in Rwanda
-* ✉️  You can contact me at [kayiganwa04@gmail.com](mailto:kayiganwa04@gmail.com)
-* 🚀  I'm currently working on [Akkadu Platform](http://www.akkadu.com)
-* 🧠  I'm learning Dart programming language
-
-### Skills
-
-
+*   🌍  I'm based in Rwanda
+*   ✉️  You can contact me at [kayiganwa04@gmail.com](mailto:kayiganwa04@gmail.com)
+*   🚀  I'm currently working on [Akkadu Platform](http://www.akkadu.com)
+*   🧠  I'm learning Dart programming language### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,14 +35,14 @@ I’m a responsible full-stack web Developer with a track record of success in t
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kayiganwa04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eddy-kayiganwa-601340207" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kayiganwa04"><img src="https://activity-graph.herokuapp.com/graph?username=kayiganwa04&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/kayiganwa04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/eddy-kayiganwa-601340207" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/kayiganwa04"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=kayiganwa04&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
