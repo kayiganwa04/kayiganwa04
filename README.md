@@ -47,4 +47,6 @@ I’m a responsible full-stack web Developer with a track record of success in t
 
 ### Badges
 
-<a href="https://github.com/kayiganwa04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayiganwa04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kayiganwa04"><img src="https://activity-graph.herokuapp.com/graph?username=kayiganwa04&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
