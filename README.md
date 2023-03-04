@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack web developer
 -----------------------
 
-I’m a responsible full-stack web Developer with a track record of success in the web application development industry ready to take on varied and diverse projects. Equally skilled at delivering technical reports and comprehensive, visceral, and substantial final projects. Known for fulfilling duties typically assigned to several developers. Keen to take ownership of client’s creative identity and user outreach efforts, and broadening client’s bases by enhancing public appeal through visually-stimulating and interactive environments.
+I am a responsible full-stack developer with over 6 years of experience creating innovative and efficient solutions for various industries. Currently, I am working on an ambitious global DeFi project that aims to revolutionize the financial industry.
+My expertise lies in designing and implementing scalable, secure, and user-friendly web applications. With a proven track record of developing and maintaining full-stack systems from front-end to back-end, I possess proficiency in the following skills:
+Programming languages: JavaScript, TypeScript, Python, PHP
+Frameworks and libraries: Next js, React js, Vue js, Node.js, Express, Django
+Databases: MongoDB, MySQL, PostgreSQL
+Cloud services: AWS, Azure, GCP
+As a creative problem-solver, I am passionate about staying up-to-date with the latest industry trends and technologies and am committed to delivering exceptional user experiences. I am excited to be a part of this rapidly evolving industry and look forward to contributing my skills and expertise to its growth.
 
 * 🌍  I'm based in Rwanda
 * ✉️  You can contact me at [kayiganwa04@gmail.com](mailto:kayiganwa04@gmail.com)
