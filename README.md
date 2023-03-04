@@ -14,7 +14,7 @@ As a creative problem-solver, I am passionate about staying up-to-date with the 
 
 * 🌍  I'm based in Rwanda
 * ✉️  You can contact me at [kayiganwa04@gmail.com](mailto:kayiganwa04@gmail.com)
-* 🚀  I'm currently working on [Akkadu Platform](http://www.akkadu.com)
+* 🚀  I'm currently working on Web3 project
 * 🧠  I'm learning Dart programming language
 
 ### Skills
